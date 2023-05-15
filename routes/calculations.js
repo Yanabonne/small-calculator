@@ -34,3 +34,5 @@ router.get('/substract', celebrate({
     secondNumber: Joi.number().required(),
   }),
 }), calculateSubtraction);
+
+module.exports = router;
