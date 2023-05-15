@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/SUshjgObk2YoiSQl6H/giphy.gif" width="130"/>
 </div>
 
-# Проект: Small Calculator
+# Мини-проект: Small Calculator
 
 **:heavy_plus_sign: О проекте**
 
@@ -21,7 +21,7 @@
 **:heavy_plus_sign: Директории**
 
 `/routes` — папка с файлами роутера  
-`/controllers` — папка с файлами контроллеров
+`/controllers` — папка с файлами контроллеров  
 `/errors` — папка с файлами разных типов ошибок 
 
 **:heavy_plus_sign: Запуск проекта**
